@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+sqlalchemy
+alembic
+pillow
+httpx
+apscheduler
+python-multipart
+pytest
+PyYAML>=6.0

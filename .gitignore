@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+storage/snapshots/*
+storage/timelapses/*
+!storage/snapshots/.gitkeep
+!storage/timelapses/.gitkeep

@@ -1,0 +1,16 @@
+.git
+.gitignore
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/.venv
+**/venv
+dashboard/node_modules
+dashboard/dist
+backend/timelapse.db
+backend/logs
+storage/*
+!storage/.gitkeep
+.env
+.env.production
+*.zip
